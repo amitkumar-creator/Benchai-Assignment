@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+a{
+  color: black;
+}
+
+.search_style{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 500px;
+}
+.search_style input{
+  width: 50%;
+  border-radius: 10px;
+  
+}
+.search_style button{
+  border-radius: 10px;
+  background: blueviolet;
+  color: white;
+}
+.list_style{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.pagination_style{
+  margin-left: 50%;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
